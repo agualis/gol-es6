@@ -1,12 +1,8 @@
-# Let's play around with ES6
+# Game Of Life Kata in ES6
 
-A sample project that allows you to build an app using ES6 features, and TDD them.
+Some Iterations of Conway's Game Of Life performed during [#GDCR15](http://www.meetup.com/es/agilearagon/events/226658501/) with @alvarobiz and @trikitrok 
 
-* Compiles with [6to5](https://github.com/sebmck/6to5)
+(Each Branch contains an iteration)
+
+* Using [es6-tdd-boilerplate](https://github.com/mattdsteele/es6-tdd-boilerplate)
 * Unit testing with [Mocha + Chai](http://mochajs.org/)
-
-## Useful ES6 resources
-
-* https://github.com/lukehoban/es6features
-* http://jsmodules.io/
-* http://es6rocks.com/
